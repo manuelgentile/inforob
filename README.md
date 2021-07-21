@@ -14,6 +14,6 @@ To run the InfoRob ACT-R model (inforob_model.lisp):
 * start the ACT-R software
 * run the python client inforob.py (python inforob.py)
 
-The current version of the dialogue is in the Italian language. An English version will be released soon!
+The current version of the dialogue is in the Italian language. The English version of the dialogue is available at https://github.com/manuelgentile/inforob/blob/main/inforob_en.py
 
 
