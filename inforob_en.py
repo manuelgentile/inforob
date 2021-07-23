@@ -1,7 +1,7 @@
 import actr
 
 utterances= {
-act01':'Hi, my name is CovidBot, I\'m here to give you health and prevention tips on COVID-19.',
+act01':'Hi, my name is InfoBot, I\'m here to give you health and prevention tips on COVID-19.',
 act02':'As you know there are some basic rules to follow to avoid the spread of the infection. Do you know what they are?',
 act03':'The 3 main anti-Covid rules are: wear a face mask, wash often your hands and respect social distancing',
 act04':'As you know, the 3 main anti-Covid rules are: wear a face mask, wash your hands often and respect social distancing',
